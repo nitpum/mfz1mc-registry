@@ -2,3 +2,4 @@ version: '1'
 mods:
   - filename: MoBends_1.12.2-1.2.1-19.12.21.jar
     url: https://media.forgecdn.net/files/3573/346/MoBends_1.12.2-1.2.1-19.12.21.jar
+  - url: https://media.forgecdn.net/files/2693/751/EyesInTheDarkness-0.0.5.jar
