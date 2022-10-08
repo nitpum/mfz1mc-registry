@@ -2,6 +2,11 @@ version: '1'
 mods:
   # Dependencies
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fgeckolib-forge-1.19-3.1.21.jar
+  - url: https://mediafiles.forgecdn.net/files/3914/527/balm-4.5.3.jar
+  - url: https://mediafiles.forgecdn.net/files/4019/679/sophisticatedcore-1.19.2-0.5.13.134.jar
+  - url: https://mediafiles.forgecdn.net/files/3959/289/libraryferret-forge-1.19.2-3.0.0.jar
+  - url: https://mediafiles.forgecdn.net/files/3926/55/framework-0.3.3-1.19.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FCreativeCore-Forge-1.19.2.jar
 
   # mods
   - url: https://mediafiles.forgecdn.net/files/3970/122/guardvillagers-1.19.2-1.5.2.jar
@@ -21,7 +26,6 @@ mods:
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fstructure_gel-1.19.2-2.6.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fthe-conjurer-1.19.2-1.1.4.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Ftwilightforest-1.19-4.2.1421-universal.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FBosses-of-Mass-Destruction-Mod-Fabric-1.19.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FMrCrayfishs-Gun-Mod-Forge-1.19.2.jar
   - url: https://mediafiles.forgecdn.net/files/3901/921/waystones-forge-1.19-11.1.0.jar
   - url: https://mediafiles.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar
