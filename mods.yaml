@@ -1,18 +1,33 @@
 version: '1'
 mods:
-  - url: https://media.forgecdn.net/files/3573/346/MoBends_1.12.2-1.2.1-19.12.21.jar
-  - url: https://media.forgecdn.net/files/2812/571/EyesInTheDarkness-0.1.0.jar
-  - url: https://media.forgecdn.net/files/3225/395/MutantBeasts-1.12.2-1.0.2.jar
-  - url: https://media.forgecdn.net/files/2801/262/iChunUtil-1.12.2-7.2.2.jar
-  - url: https://media.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar
-  - url: https://media.forgecdn.net/files/2625/165/obfuscate-0.2.6-1.12.2.jar
-  - url: https://media.forgecdn.net/files/3735/841/SRParasites-1.12.2v1.9.4.jar
-  - url: https://media.forgecdn.net/files/3497/269/DynamicSurroundings-1.12.2-3.6.3.jar
-  - url: https://media.forgecdn.net/files/3086/615/spiders-2.0-1.12.2-1.0.3.jar
-  - url: https://media.forgecdn.net/files/2487/81/MobDismemberment-1.12.2-7.0.0.jar
-  - url: https://media.forgecdn.net/files/3025/806/SoundFilters-0.12.1_for_1.12.jar
-  - url: https://media.forgecdn.net/files/3425/511/Grue-1.12.2-1.8.1.jar
-  - url: https://media.forgecdn.net/files/3672/570/DarknessLib-1.12.2-1.1.2.jar
-  - url: https://media.forgecdn.net/files/2854/400/guns-0.15.3-1.12.2.jar
-  - url: https://media.forgecdn.net/files/2820/815/OreLib-1.12.2-3.6.0.1.jar
-  - url: https://media.forgecdn.net/files/2859/589/Waystones_1.12.2-4.1.0.jar
+  # Dependencies
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fgeckolib-forge-1.19-3.1.21.jar
+
+  # mods
+  - url: https://mediafiles.forgecdn.net/files/3970/122/guardvillagers-1.19.2-1.5.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonCrawl-1.19-2.3.11.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonsArise-1.19-2.1.51-beta.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FRex's-AdditionalStructures-1.19.x-(v.4.0.2).jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FThe_Graveyard_1.12_(FORGE)_for_1.19.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FTowns-and-Towers-1.19-1.8.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2F%5BUniversal%5DImmersive_Structures_v2-0-3.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeon-forge-1.19.2-3.0.0.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeonend-forge-1.19.2-3.0.0.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeonocean-forge-1.19.2-3.0.1.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fcitadel-1.12.12-1.19.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fdungeons_enhanced-1.19.2-4.0.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fredstructure-1.0.4-forge-1.19.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Frepurposed_structures_forge-6.3.0%2B1.19.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fstructure_gel-1.19.2-2.6.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fthe-conjurer-1.19.2-1.1.4.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Ftwilightforest-1.19-4.2.1421-universal.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FBosses-of-Mass-Destruction-Mod-Fabric-1.19.2.jar
+  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FMrCrayfishs-Gun-Mod-Forge-1.19.2.jar
+  - url: https://mediafiles.forgecdn.net/files/3901/921/waystones-forge-1.19-11.1.0.jar
+  - url: https://mediafiles.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar
+  - url: https://mediafiles.forgecdn.net/files/3927/567/appleskin-fabric-mc1.19-2.4.1.jar # client
+  - url: https://mediafiles.forgecdn.net/files/4006/90/sophisticatedbackpacks-1.19.2-3.18.29.719.jar
+  - url: https://mediafiles.forgecdn.net/files/3918/397/Canes+Wonderful+Spiders.jar
+  - url: https://mediafiles.forgecdn.net/files/3872/340/EyesInTheDarkness-1.19-1.3.5.jar
+  - url: https://mediafiles.forgecdn.net/files/3906/125/OminousDarkness-forge-1.19-1.1.1.jar
+  - url: https://mediafiles.forgecdn.net/files/4009/481/PlayerRevive_FORGE_v2.0.12_mc1.19.2.jar
