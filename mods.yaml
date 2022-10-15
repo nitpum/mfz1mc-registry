@@ -1,7 +1,7 @@
 version: '1'
 mods:
   # Dependencies
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fgeckolib-forge-1.19-3.1.21.jar
+  - url: https://edge.forgecdn.net/files/4017/13/geckolib-forge-1.19-3.1.22.jar
   - url: https://edge.forgecdn.net/files/3914/527/balm-4.5.3.jar
   - url: https://edge.forgecdn.net/files/4019/679/sophisticatedcore-1.19.2-0.5.13.134.jar
   - url: https://edge.forgecdn.net/files/3959/289/libraryferret-forge-1.19.2-3.0.0.jar
@@ -159,8 +159,6 @@ mods:
   - url: https://edge.forgecdn.net/files/3981/973/saturn-mc1.19.2-0.0.1.jar
   - url: https://edge.forgecdn.net/files/3947/501/excavated_variants-forge-1.19.2-1.0.3.jar
   - url: https://edge.forgecdn.net/files/3970/122/guardvillagers-1.19.2-1.5.2.jar
-  - url: https://edge.forgecdn.net/files/3995/805/twilightforest-1.19-4.2.1421-universal.jar
-  - url: https://edge.forgecdn.net/files/3914/527/balm-4.5.3.jar
   - url: https://edge.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar
   - url: https://edge.forgecdn.net/files/3972/423/cloth-config-8.2.88-forge.jar
   - url: https://edge.forgecdn.net/files/3995/720/upgradednetherite_items-1.19.2-4.1.0.1-release.jar
@@ -184,7 +182,7 @@ mods:
   - url: https://edge.forgecdn.net/files/4012/41/supplementaries-1.19.2-2.2.3.jar
   - url: https://edge.forgecdn.net/files/3923/389/abnormals_delight-1.19-4.0.0.jar
   - url: https://edge.forgecdn.net/files/4009/778/BetterCompatibilityChecker-1.0.8-build.36+mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3941/638/Decorative Blocks-forge-1.19.2-3.0.0.jar
+  - url: https://edge.forgecdn.net/files/3941/638/Decorative%20Blocks-forge-1.19.2-3.0.0.jar
   - url: https://edge.forgecdn.net/files/3921/778/snuffles-1.0.3.jar
   - url: https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar
   - url: https://edge.forgecdn.net/files/3993/235/veinmining-forge-1.0.0-beta.2+1.19.2.jar
