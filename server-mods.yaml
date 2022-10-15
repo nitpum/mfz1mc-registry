@@ -41,7 +41,7 @@ mods:
   # mod pack
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/abnormals_delight-1.19-4.0.0.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/abundant_atmosphere-0.1.1-1.19.2.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Adorn-3.6.1+1.19-forge.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Adorn-3.6.1%2B1.19-forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/AI-Improvements-1.19-0.5.1.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/alexsmobs-1.20.1.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/another_furniture-forge-2.0.3-1.19.2.jar
@@ -51,9 +51,9 @@ mods:
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/backpacked-2.1.10-1.19.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BadMobs-1.19.2-16.1.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/balm-4.5.3.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BambooEverything-forge-2.0.0-build.23+mc1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BambooEverything-forge-2.0.0-build.23%2Bmc1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BarteringStation-v4.0.0-1.19.2-Forge.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BetterCompatibilityChecker-1.0.8-build.36+mc1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BetterCompatibilityChecker-1.0.8-build.36%2Bmc1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BetterModsButton-v4.2.1-1.19.2-Forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/BetterTridents-v4.0.1-1.19.2-Forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/biomemakeover-FORGE-1.19.2-1.5.12.jar
@@ -66,12 +66,12 @@ mods:
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/canary-mc1.19.2-0.0.3.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/carryon-1.19-1.18.1.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Cataclysm-0.20-1.19.2-hotfix.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/charmofundying-forge-6.0.0+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/charmofundying-forge-6.0.0%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/citadel-1.12.12-1.19.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/cloth-config-8.2.88-forge.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Clumps-forge-1.19.2-9.0.0+11.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Clumps-forge-1.19.2-9.0.0%2B11.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/collective-1.19.2-5.0.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/comforts-forge-6.0.1+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/comforts-forge-6.0.1%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/corail_woodcutter_extension_byg-1.19.2-1.0.3.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/corail_woodcutter-1.19.2-2.5.0.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/corpse-1.19.2-1.0.0.jar
@@ -91,7 +91,7 @@ mods:
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/EasyMagic-v4.3.2-1.19.2-Forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/ecologics-forge-1.19.2-2.1.10.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/elevatorid-1.19-1.8.7.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/elytraslot-forge-6.0.0+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/elytraslot-forge-6.0.0%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/enchantwithmob-1.19.2-6.2.0.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/everycomp-1.19.2-2.0.6.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/excavated_variants-forge-1.19.2-1.0.3.jar
@@ -134,11 +134,11 @@ mods:
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Patchouli-1.19.2-76.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/personality-1.19-3.0.1.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/polylib-forge-1900.0.2-build.27.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/polymorph-forge-0.45.0+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/polymorph-forge-0.45.0%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/PuzzlesLib-v4.3.9-1.19.2-Forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Quark-3.3-371.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Raided-1.19.2-0.1.1.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/repurposed_structures_forge-6.3.1+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/repurposed_structures_forge-6.3.1%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/revampedwolf-1.19-2.0.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/Rex's-AdditionalStructures-1.19.x-(v.4.0.2).jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/saturn-mc1.19.2-0.0.1.jar
@@ -164,13 +164,13 @@ mods:
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/textrues_rubidium_options-1.0.3-mc1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/the-conjurer-1.19.2-1.1.4.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/TradingPost-v4.2.0-1.19.2-Forge.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/transparent-5.1.0+1.19-forge.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/transparent-5.1.0%2B1.19-forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/twilightforest-1.19-4.2.1421-universal.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/upgradedcore-1.19.2-4.1.0.0-release.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/upgradednetherite_items-1.19.2-4.1.0.1-release.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/upgradednetherite_ultimate-1.19.2-4.1.0.0-release.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/upgradednetherite-1.19.2-5.1.0.2-release.jar
-  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/veinmining-forge-1.0.0-beta.2+1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/server/veinmining-forge-1.0.0-beta.2%2B1.19.2.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/villagernames_1.19.2-4.1.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/VisualWorkbench-v4.2.0-1.19.2-Forge.jar
   - url: https://f004.backblazeb2.com/file/oaklog/mods/server/voidtotem-forge-1.19.2-2.1.0.jar
