@@ -6,27 +6,27 @@ mods:
   - url: https://mediafiles.forgecdn.net/files/4019/679/sophisticatedcore-1.19.2-0.5.13.134.jar
   - url: https://mediafiles.forgecdn.net/files/3959/289/libraryferret-forge-1.19.2-3.0.0.jar
   - url: https://mediafiles.forgecdn.net/files/3926/55/framework-0.3.3-1.19.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FCreativeCore-Forge-1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/mods_CreativeCore-Forge-1.19.2.jar
 
   # mods
   - url: https://mediafiles.forgecdn.net/files/3970/122/guardvillagers-1.19.2-1.5.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonCrawl-1.19-2.3.11.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonsArise-1.19-2.1.51-beta.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FRex's-AdditionalStructures-1.19.x-(v.4.0.2).jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FThe_Graveyard_1.12_(FORGE)_for_1.19.2.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FTowns-and-Towers-1.19-1.8.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/mods_The_Graveyard_1.12_(FORGE)_for_1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/mods_Towns-and-Towers-1.19-1.8.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2F%5BUniversal%5DImmersive_Structures_v2-0-3.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeon-forge-1.19.2-3.0.0.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeonend-forge-1.19.2-3.0.0.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fawesomedungeonocean-forge-1.19.2-3.0.1.jar
+  - url: https://edge.forgecdn.net/files/3959/474/awesomedungeon-forge-1.19.2-3.0.0.jar
+  - url: https://edge.forgecdn.net/files/3959/612/awesomedungeonend-forge-1.19.2-3.0.0.jar
+  - url: https://edge.forgecdn.net/files/3999/346/awesomedungeonocean-forge-1.19.2-3.0.1.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fcitadel-1.12.12-1.19.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fdungeons_enhanced-1.19.2-4.0.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fredstructure-1.0.4-forge-1.19.2.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Frepurposed_structures_forge-6.3.0%2B1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/mods_redstructure-1.0.4-forge-1.19.2.jar
+  - url: https://f004.backblazeb2.com/file/oaklog/mods/mods_repurposed_structures_forge-6.3.0%2B1.19.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fstructure_gel-1.19.2-2.6.2.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fthe-conjurer-1.19.2-1.1.4.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Ftwilightforest-1.19-4.2.1421-universal.jar
-  - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FMrCrayfishs-Gun-Mod-Forge-1.19.2.jar
+  - url: https://edge.forgecdn.net/files/3874/34/cgm-1.2.8-1.19.jar
   - url: https://mediafiles.forgecdn.net/files/3901/921/waystones-forge-1.19-11.1.0.jar
   - url: https://mediafiles.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar
   - url: https://edge.forgecdn.net/files/4006/90/sophisticatedbackpacks-1.19.2-3.18.29.719.jar
