@@ -67,7 +67,7 @@ mods:
   - url: https://edge.forgecdn.net/files/3945/866/PickUpNotifier-v4.2.0-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/3865/500/Ping-1.19-1.9.1.jar
   - url: https://edge.forgecdn.net/files/4009/481/PlayerRevive_FORGE_v2.0.12_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4005/503/Raided-1.19.2-0.1.1.jar
+  - url: https://edge.forgecdn.net/files/4398/692/Raided-1.19.2-0.1.3.jar
   - url: https://edge.forgecdn.net/files/3926/547/savage_and_ravage-1.19-5.0.2.jar
   - url: https://edge.forgecdn.net/files/3922/654/smoothchunk-1.19.1-2.0.jar
   - url: https://edge.forgecdn.net/files/3878/691/Structory-1.19-1.2.jar
@@ -96,7 +96,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4013/28/canary-mc1.19.2-0.0.3.jar
   - url: https://edge.forgecdn.net/files/3963/202/BetterModsButton-v4.2.1-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/3940/452/BetterAdvancements-1.19.2-0.2.2.142.jar
-  - url: https://edge.forgecdn.net/files/3989/572/ftbbackups2-forge-1.19.2-1.0.14.jar
   - url: https://edge.forgecdn.net/files/3832/619/netherportalfix-forge-1.19-10.0.0.jar
   - url: https://edge.forgecdn.net/files/3943/67/OpenLoader-Forge-1.19.2-15.0.1.jar
   - url: https://edge.forgecdn.net/files/4017/218/smoothboot(reloaded)-mc1.19.2-1.0.4.jar
