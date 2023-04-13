@@ -19,6 +19,7 @@ mods:
   - url: https://edge.forgecdn.net/files/3931/440/blueprint-1.19-6.0.6.jar
   - url: https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar
   - url: https://edge.forgecdn.net/files/4010/813/Iceberg-1.19.2-forge-1.0.48.jar
+  - url: https://edge.forgecdn.net/files/4486/955/polylib-forge-1900.0.2-build.73.jar
 
   # mods
   - url: https://edge.forgecdn.net/files/4482/219/ImprovableSkills-1.19.2-19.2.8.jar
