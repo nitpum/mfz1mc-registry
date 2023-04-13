@@ -62,7 +62,7 @@ mods:
   - url: https://edge.forgecdn.net/files/4010/505/Jade-1.19.1-forge-8.3.0.jar
   - url: https://oaklog.nitpum.com/mods/mods_redstructure-1.0.4-forge-1.19.2.jar
   - url: https://oaklog.nitpum.com/mods/mods_Towns-and-Towers-1.19-1.8.2.jar
-  - url: https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar
+  #- url: https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar no need on server
   - url: https://edge.forgecdn.net/files/3942/34/mvs-3.1.3.jar
   - url: https://edge.forgecdn.net/files/3912/29/personality-1.19-3.0.1.jar
   - url: https://edge.forgecdn.net/files/3945/866/PickUpNotifier-v4.2.0-1.19.2-Forge.jar
@@ -83,7 +83,7 @@ mods:
   - url: https://edge.forgecdn.net/files/4012/615/Xaeros_Minimap_22.15.1_Forge_1.19.1.jar
   - url: https://edge.forgecdn.net/files/4010/422/XaerosWorldMap_1.28.0_Forge_1.19.1.jar
   - url: https://edge.forgecdn.net/files/4278/138/goblins-0.5.jar
-  #  - url: https://edge.forgecdn.net/files/4432/658/guardvillagers-1.19.2-1.5.5.jar
+  - url: https://edge.forgecdn.net/files/4432/658/guardvillagers-1.19.2-1.5.5.jar
   - url: https://edge.forgecdn.net/files/4159/154/alexsmobs-1.21.1.jar
   - url: https://edge.forgecdn.net/files/4480/454/dungeonnowloading-18.1-1.19.2.jar
   - url: https://edge.forgecdn.net/files/4394/248/FruitTrees-1.19.2-forge-6.3.0.jar
