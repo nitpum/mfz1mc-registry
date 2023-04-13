@@ -83,7 +83,7 @@ mods:
   - url: https://edge.forgecdn.net/files/4012/615/Xaeros_Minimap_22.15.1_Forge_1.19.1.jar
   - url: https://edge.forgecdn.net/files/4010/422/XaerosWorldMap_1.28.0_Forge_1.19.1.jar
   - url: https://edge.forgecdn.net/files/4278/138/goblins-0.5.jar
-  - url: https://edge.forgecdn.net/files/4432/658/guardvillagers-1.19.2-1.5.5.jar
+  #  - url: https://edge.forgecdn.net/files/4432/658/guardvillagers-1.19.2-1.5.5.jar
   - url: https://edge.forgecdn.net/files/4159/154/alexsmobs-1.21.1.jar
   - url: https://edge.forgecdn.net/files/4480/454/dungeonnowloading-18.1-1.19.2.jar
   - url: https://edge.forgecdn.net/files/4394/248/FruitTrees-1.19.2-forge-6.3.0.jar
