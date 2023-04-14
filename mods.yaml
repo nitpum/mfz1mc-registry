@@ -22,6 +22,8 @@ mods:
   - url: https://edge.forgecdn.net/files/4010/813/Iceberg-1.19.2-forge-1.0.48.jar
   - url: https://edge.forgecdn.net/files/4486/955/polylib-forge-1900.0.2-build.73.jar
   - url: https://mediafilez.forgecdn.net/files/4436/952/collective-1.19.2-6.53.jar
+  - url: https://mediafilez.forgecdn.net/files/4453/756/libIPN-forge-1.19-2.0.4.jar
+  - url: https://mediafilez.forgecdn.net/files/4439/494/kotlinforforge-3.11.0-all.jar
 
   # mods
   - url: https://mediafilez.forgecdn.net/files/4421/815/starterkit-1.19.2-5.2.jar
@@ -47,7 +49,7 @@ mods:
   - url: https://edge.forgecdn.net/files/3922/515/bygonenether-1.2.1-1.19.x.jar
   - url: https://edge.forgecdn.net/files/3995/72/comforts-forge-6.0.1+1.19.2.jar
   - url: https://edge.forgecdn.net/files/3920/717/corpse-1.19.2-1.0.0.jar
-  - url: https://edge.forgecdn.net/files/3924/518/curios-forge-1.19.2-5.1.1.0.jar
+  - url: https://edge.forgecdn.net/files/4418/21/curios-forge-1.19.2-5.1.3.0.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonCrawl-1.19-2.3.11.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2Fdungeons_enhanced-1.19.2-4.0.jar
   - url: https://objectstorage.ap-singapore-1.oraclecloud.com/n/axtnr6szhrxk/b/oaklog/o/mods%2FDungeonsArise-1.19-2.1.51-beta.jar
@@ -100,6 +102,7 @@ mods:
   - url: https://edge.forgecdn.net/files/3871/568/AI-Improvements-1.19-0.5.1.jar
   - url: https://edge.forgecdn.net/files/3987/246/SimpleDiscordRichPresence-forge-3.0.2-build.23+mc1.19.2.jar
   - url: https://mediafilez.forgecdn.net/files/3885/990/InventorySorter-1.8.10-1.19.jar
+  - url: https://mediafilez.forgecdn.net/files/4469/4/InventoryProfilesNext-forge-1.19-1.9.5.jar
 
   #GameImprove
   - url: https://edge.forgecdn.net/files/4013/28/canary-mc1.19.2-0.0.3.jar
