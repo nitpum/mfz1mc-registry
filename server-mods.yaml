@@ -63,6 +63,7 @@ mods:
   - url: https://oaklog.nitpum.com/mods/mods_redstructure-1.0.4-forge-1.19.2.jar
   - url: https://oaklog.nitpum.com/mods/mods_Towns-and-Towers-1.19-1.8.2.jar
   #- url: https://edge.forgecdn.net/files/3871/353/MouseTweaks-forge-mc1.19-2.23.jar no need on server
+  - url: https://mediafilez.forgecdn.net/files/4421/815/starterkit-1.19.2-5.2.jar
   - url: https://edge.forgecdn.net/files/3942/34/mvs-3.1.3.jar
   - url: https://edge.forgecdn.net/files/3912/29/personality-1.19-3.0.1.jar
   - url: https://edge.forgecdn.net/files/3945/866/PickUpNotifier-v4.2.0-1.19.2-Forge.jar
