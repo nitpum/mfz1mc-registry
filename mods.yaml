@@ -103,6 +103,7 @@ mods:
   - url: https://edge.forgecdn.net/files/3987/246/SimpleDiscordRichPresence-forge-3.0.2-build.23+mc1.19.2.jar
   - url: https://mediafilez.forgecdn.net/files/3885/990/InventorySorter-1.8.10-1.19.jar
   - url: https://mediafilez.forgecdn.net/files/4469/4/InventoryProfilesNext-forge-1.19-1.9.5.jar
+  - url: https://mediafilez.forgecdn.net/files/4374/996/cfm-7.0.0-pre35-1.19.2.jar
 
   #GameImprove
   - url: https://edge.forgecdn.net/files/4013/28/canary-mc1.19.2-0.0.3.jar
