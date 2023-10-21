@@ -32,7 +32,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1%2B1.19.2.jar
   - url: https://edge.forgecdn.net/files/4153/724/invhud.forge.1.19-3.4.7.jar
   - url: https://edge.forgecdn.net/files/4746/980/artifacts-1.19.2-5.0.4.jar
-  - url: https://edge.forgecdn.net/files/4065/546/notenoughanimations-forge-1.6.2-mc1.19.2.jar
   - url: https://edge.forgecdn.net/files/4794/910/repurposed_structures_forge-6.3.27%2B1.19.2.jar
   - url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
   - url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
@@ -45,7 +44,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/4569/847/MutantMonsters-v4.0.6-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/3877/162/BetterThanMending-1.7.2.jar
-  - url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
   - url: https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar
   - url: https://edge.forgecdn.net/files/4584/615/CreativeCore_FORGE_v2.9.4_mc1.19.2.jar
   - url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar
