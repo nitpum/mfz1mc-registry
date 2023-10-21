@@ -39,328 +39,91 @@ mods:
   - url: https://edge.forgecdn.net/files/4712/866/jei-1.19.2-forge-11.6.0.1018.jar
   - url: https://edge.forgecdn.net/files/4277/356/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
   - url: https://edge.forgecdn.net/files/4736/644/sophisticatedbackpacks-1.19.2-3.18.58.907.jar
-  - url: https://edge.forgecdn.net/files/3951/643/JustEnoughResources-1.19.2-1.1.0.179.jar
-  - url: https://edge.forgecdn.net/files/4729/948/carryon-forge-1.19.2-2.1.1.21.jar
-  - url: https://edge.forgecdn.net/files/4736/641/sophisticatedcore-1.19.2-0.5.87.417.jar
-  - url: https://edge.forgecdn.net/files/3894/512/FastLeafDecay-30.jar
-  - url: https://edge.forgecdn.net/files/4412/699/netherportalfix-forge-1.19-10.0.1.jar
-  - url: https://edge.forgecdn.net/files/4019/127/AI-Improvements-1.19.2-0.5.2.jar
-  - url: https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar
-  - url: https://edge.forgecdn.net/files/4028/348/FastFurnace-1.19.2-7.0.0.jar
-  - url: https://edge.forgecdn.net/files/3920/717/corpse-1.19.2-1.0.0.jar
-  - url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4153/724/invhud.forge.1.19-3.4.7.jar
-  - url: https://edge.forgecdn.net/files/4746/980/artifacts-1.19.2-5.0.4.jar
-  - url: https://edge.forgecdn.net/files/4065/546/notenoughanimations-forge-1.6.2-mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4794/910/repurposed_structures_forge-6.3.27%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
-  - url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
-  - url: https://edge.forgecdn.net/files/3922/675/swingthroughgrass-1.19.2-1.10.0.jar
-  - url: https://edge.forgecdn.net/files/4166/676/deeperdarker-forge-1.1.6-forge.jar
-  - url: https://edge.forgecdn.net/files/4010/651/goblintraders-1.8.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3963/662/inventorysorter-1.19.2-21.0.4.jar
-  - url: https://edge.forgecdn.net/files/4086/903/Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar
-  - url: https://edge.forgecdn.net/files/4368/296/BetterTridents-v4.0.2-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4569/847/MutantMonsters-v4.0.6-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/3877/162/BetterThanMending-1.7.2.jar
-  - url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
-  - url: https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4584/615/CreativeCore_FORGE_v2.9.4_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4061/326/ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4126/142/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3922/355/BowInfinityFix-1.19.x-forge-2.5.1.jar
-  - url: https://edge.forgecdn.net/files/4703/619/bettervillage-forge-1.19.2-3.2.0.jar
-  - url: https://edge.forgecdn.net/files/4435/523/libraryferret-forge-1.19.2-4.0.0.jar
-  - url: https://edge.forgecdn.net/files/4662/406/immersive_armors-1.5.6%2B1.19.2-forge.jar
-  - url: https://edge.forgecdn.net/files/4345/42/toughnessbar-1.19.2-8.jar
-  - url: https://edge.forgecdn.net/files/4767/68/born_in_chaos_%5bForge%5d1.19.2_1.7.jar
-  - url: https://edge.forgecdn.net/files/4068/246/amethystequipment-forge-1.19.2-v1.0.7.jar
-  - url: https://edge.forgecdn.net/files/4063/268/rottencreatures-forge-1.19.2-1.0.1.jar
-  - url: https://edge.forgecdn.net/files/4677/633/Nullscape_1.19.3_v1.2.2.jar
-  - url: https://edge.forgecdn.net/files/3925/822/secondchanceforge-1.19-1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4761/151/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar
-  - url: https://edge.forgecdn.net/files/4381/343/smarterfarmers-1.19.2-1.7.1.jar
-  - url: https://edge.forgecdn.net/files/4345/320/betterenchantments-1.0.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4749/196/VillagerEnchanter-Forge-0.1%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4599/706/DungeonsArise-1.19.2-2.1.56-beta.jar
-  - url: https://edge.forgecdn.net/files/4499/66/HangGlider-v4.0.0-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4657/842/difficultraids-1.19.2-2.0-beta.11.jar
-  - url: https://edge.forgecdn.net/files/4617/717/ImprovableSkills-1.19.2-19.2.9.jar
-  - url: https://edge.forgecdn.net/files/4790/589/TravelersBackpack-1.19.2-8.2.35.jar
-  - url: https://edge.forgecdn.net/files/4759/853/Placebo-1.19.2-7.3.3.jar
-  - url: https://edge.forgecdn.net/files/4768/469/HammerLib-1.19.2-19.3.73.jar
-  - url: https://edge.forgecdn.net/files/4556/697/Bookshelf-Forge-1.19.2-16.3.20.jar
-  - url: https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar
-  - url: https://edge.forgecdn.net/files/4758/15/moonlight-1.19.2-2.2.46-forge.jar
-  - url: https://edge.forgecdn.net/files/4441/682/YungsApi-1.19.2-Forge-3.8.9.jar
-  - url: https://edge.forgecdn.net/files/4499/656/stalwart-dungeons-1.19.2-1.2.8.jar
-  - url: https://edge.forgecdn.net/files/4749/568/XaerosWorldMap_1.34.1_Forge_1.19.1.jar
-  - url: https://edge.forgecdn.net/files/4768/136/Xaeros_Minimap_23.8.2_Forge_1.19.1.jar
-  - url: https://edge.forgecdn.net/files/4801/198/treasuredistance-1.19.2-1.2.jar
-  - url: https://edge.forgecdn.net/files/4282/5/EquipmentCompare-1.19.2-forge-1.3.2.jar
-  - url: https://edge.forgecdn.net/files/4794/940/EpicFight-19.5.14.jar
-  - url: https://edge.forgecdn.net/files/4576/641/geophilic-1.19-2.0.0c.jar
-  - url: https://edge.forgecdn.net/files/4713/983/InventoryProfilesNext-forge-1.19-1.10.7.jar
-  - url: https://edge.forgecdn.net/files/4300/529/Iceberg-1.19.2-forge-1.1.4.jar
-  - url: https://edge.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar
-  - url: https://edge.forgecdn.net/files/4713/498/libIPN-forge-1.19-4.0.0.jar
 
-  - url: https://edge.forgecdn.net/files/4800/904/Jade-1.19.1-forge-8.9.1.jar
-  - url: https://edge.forgecdn.net/files/4556/677/citadel-2.1.4-1.19.jar
-  - url: https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar
-  - url: https://edge.forgecdn.net/files/4633/416/cloth-config-8.3.103-forge.jar
-  - url: https://edge.forgecdn.net/files/4418/149/player-animation-lib-forge-1.0.2.jar
-  - url: https://edge.forgecdn.net/files/4074/684/Aquaculture-1.19.2-2.4.8.jar
-  - url: https://edge.forgecdn.net/files/4561/875/brutalbosses-1.19.2-6.3.jar
-  - url: https://edge.forgecdn.net/files/4671/55/mcw-bridges-2.1.1-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4452/501/Incendium_1.19.3_v5.1.6.jar
-  - url: https://edge.forgecdn.net/files/4343/572/dragon_enchants-1.0.4-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4199/798/soundphysics-forge-1.19.2-1.0.18.jar
-  - url: https://edge.forgecdn.net/files/4291/556/PresenceFootsteps-1.19.2-1.6.4.1-forge.jar
-  - url: https://edge.forgecdn.net/files/4555/749/architectury-6.5.85-forge.jar
-  - url: https://edge.forgecdn.net/files/4784/876/immersivemc-1.4.0-1.19.2-forge.jar
-  - url: https://edge.forgecdn.net/files/4751/735/balm-forge-1.19.2-4.6.0.jar
-  - url: https://edge.forgecdn.net/files/4635/420/waystones-forge-1.19.2-11.4.1.jar
-  - url: https://edge.forgecdn.net/files/4523/9/curios-forge-1.19.2-5.1.4.1.jar
-  - url: https://edge.forgecdn.net/files/4712/866/jei-1.19.2-forge-11.6.0.1018.jar
-  - url: https://edge.forgecdn.net/files/4277/356/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
-  - url: https://edge.forgecdn.net/files/4736/644/sophisticatedbackpacks-1.19.2-3.18.58.907.jar
-  - url: https://edge.forgecdn.net/files/3951/643/JustEnoughResources-1.19.2-1.1.0.179.jar
-  - url: https://edge.forgecdn.net/files/4729/948/carryon-forge-1.19.2-2.1.1.21.jar
-  - url: https://edge.forgecdn.net/files/4736/641/sophisticatedcore-1.19.2-0.5.87.417.jar
-  - url: https://edge.forgecdn.net/files/3894/512/FastLeafDecay-30.jar
-  - url: https://edge.forgecdn.net/files/4412/699/netherportalfix-forge-1.19-10.0.1.jar
-  - url: https://edge.forgecdn.net/files/4019/127/AI-Improvements-1.19.2-0.5.2.jar
-  - url: https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar
-  - url: https://edge.forgecdn.net/files/4028/348/FastFurnace-1.19.2-7.0.0.jar
-  - url: https://edge.forgecdn.net/files/3920/717/corpse-1.19.2-1.0.0.jar
-  - url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4153/724/invhud.forge.1.19-3.4.7.jar
-  - url: https://edge.forgecdn.net/files/4746/980/artifacts-1.19.2-5.0.4.jar
-  - url: https://edge.forgecdn.net/files/4065/546/notenoughanimations-forge-1.6.2-mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4794/910/repurposed_structures_forge-6.3.27%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
-  - url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
-  - url: https://edge.forgecdn.net/files/3922/675/swingthroughgrass-1.19.2-1.10.0.jar
-  - url: https://edge.forgecdn.net/files/4166/676/deeperdarker-forge-1.1.6-forge.jar
-  - url: https://edge.forgecdn.net/files/4010/651/goblintraders-1.8.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3963/662/inventorysorter-1.19.2-21.0.4.jar
-  - url: https://edge.forgecdn.net/files/4086/903/Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar
-  - url: https://edge.forgecdn.net/files/4368/296/BetterTridents-v4.0.2-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4569/847/MutantMonsters-v4.0.6-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/3877/162/BetterThanMending-1.7.2.jar
-  - url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
-  - url: https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4584/615/CreativeCore_FORGE_v2.9.4_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4061/326/ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4126/142/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3922/355/BowInfinityFix-1.19.x-forge-2.5.1.jar
-  - url: https://edge.forgecdn.net/files/4703/619/bettervillage-forge-1.19.2-3.2.0.jar
-  - url: https://edge.forgecdn.net/files/4435/523/libraryferret-forge-1.19.2-4.0.0.jar
-  - url: https://edge.forgecdn.net/files/4662/406/immersive_armors-1.5.6%2B1.19.2-forge.jar
-  - url: https://edge.forgecdn.net/files/4345/42/toughnessbar-1.19.2-8.jar
-  - url: https://edge.forgecdn.net/files/4767/68/born_in_chaos_%5bForge%5d1.19.2_1.7.jar
-  - url: https://edge.forgecdn.net/files/4068/246/amethystequipment-forge-1.19.2-v1.0.7.jar
-  - url: https://edge.forgecdn.net/files/4063/268/rottencreatures-forge-1.19.2-1.0.1.jar
-  - url: https://edge.forgecdn.net/files/4677/633/Nullscape_1.19.3_v1.2.2.jar
-  - url: https://edge.forgecdn.net/files/3925/822/secondchanceforge-1.19-1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4761/151/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar
-  - url: https://edge.forgecdn.net/files/4381/343/smarterfarmers-1.19.2-1.7.1.jar
-  - url: https://edge.forgecdn.net/files/4345/320/betterenchantments-1.0.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4749/196/VillagerEnchanter-Forge-0.1%2B1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4599/706/DungeonsArise-1.19.2-2.1.56-beta.jar
-  - url: https://edge.forgecdn.net/files/4499/66/HangGlider-v4.0.0-1.19.2-Forge.jar
-  - url: https://edge.forgecdn.net/files/4657/842/difficultraids-1.19.2-2.0-beta.11.jar
-  - url: https://edge.forgecdn.net/files/4617/717/ImprovableSkills-1.19.2-19.2.9.jar
-  - url: https://edge.forgecdn.net/files/4790/589/TravelersBackpack-1.19.2-8.2.35.jar
-  - url: https://edge.forgecdn.net/files/4759/853/Placebo-1.19.2-7.3.3.jar
-  - url: https://edge.forgecdn.net/files/4768/469/HammerLib-1.19.2-19.3.73.jar
-  - url: https://edge.forgecdn.net/files/4556/697/Bookshelf-Forge-1.19.2-16.3.20.jar
-  - url: https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar
-  - url: https://edge.forgecdn.net/files/4758/15/moonlight-1.19.2-2.2.46-forge.jar
-  - url: https://edge.forgecdn.net/files/4441/682/YungsApi-1.19.2-Forge-3.8.9.jar
-  - url: https://edge.forgecdn.net/files/4499/656/stalwart-dungeons-1.19.2-1.2.8.jar
-  - url: https://edge.forgecdn.net/files/4749/568/XaerosWorldMap_1.34.1_Forge_1.19.1.jar
-  - url: https://edge.forgecdn.net/files/4768/136/Xaeros_Minimap_23.8.2_Forge_1.19.1.jar
-  - url: https://edge.forgecdn.net/files/4801/198/treasuredistance-1.19.2-1.2.jar
-  - url: https://edge.forgecdn.net/files/4282/5/EquipmentCompare-1.19.2-forge-1.3.2.jar
-  - url: https://edge.forgecdn.net/files/4794/940/EpicFight-19.5.14.jar
-  - url: https://edge.forgecdn.net/files/4576/641/geophilic-1.19-2.0.0c.jar
-  - url: https://edge.forgecdn.net/files/4713/983/InventoryProfilesNext-forge-1.19-1.10.7.jar
-  - url: https://edge.forgecdn.net/files/4300/529/Iceberg-1.19.2-forge-1.1.4.jar
-  - url: https://edge.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar
-  - url: https://edge.forgecdn.net/files/4713/498/libIPN-forge-1.19-4.0.0.jar
-  - url: https://edge.forgecdn.net/files/4555/749/architectury-6.5.85-forge.jar
-  - url: https://edge.forgecdn.net/files/4633/416/cloth-config-8.3.103-forge.jar
-  - url: https://edge.forgecdn.net/files/4712/866/jei-1.19.2-forge-11.6.0.1018.jar
-  - url: https://edge.forgecdn.net/files/4523/9/curios-forge-1.19.2-5.1.4.1.jar
-  - url: https://edge.forgecdn.net/files/4441/682/YungsApi-1.19.2-Forge-3.8.9.jar
-  - url: https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar
-  - url: https://edge.forgecdn.net/files/4765/558/structure_gel-1.19.2-2.7.3.jar
-  - url: https://edge.forgecdn.net/files/4411/903/upgradedcore-1.19.2-4.1.0.1-release.jar
-  - url: https://edge.forgecdn.net/files/4657/763/gamemenumodoption-mc1.19.2-1.18.1.jar
-  - url: https://edge.forgecdn.net/files/4774/386/RoughlyEnoughItems-9.1.663.jar
-  - url: https://edge.forgecdn.net/files/4736/641/sophisticatedcore-1.19.2-0.5.87.417.jar
-  - url: https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar
-  - url: https://edge.forgecdn.net/files/4764/900/farsight-1.19.2-3.5.jar
-  - url: https://edge.forgecdn.net/files/4792/392/modernfix-forge-5.8.1+mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4617/717/ImprovableSkills-1.19.2-19.2.9.jar
-  - url: https://edge.forgecdn.net/files/4729/948/carryon-forge-1.19.2-2.1.1.21.jar
-  - url: https://edge.forgecdn.net/files/4794/940/EpicFight-19.5.14.jar
-  - url: https://edge.forgecdn.net/files/4728/291/weaponmaster-multiplayer-forge-1.19.2-3.0.5.jar
-  - url: https://edge.forgecdn.net/files/4671/55/mcw-bridges-2.1.1-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4649/906/mcw-doors-1.1.0forge-mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4204/550/mcw-fences-1.0.7-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4608/580/mcw-trapdoors-1.1.1-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4671/61/mcw-roofs-2.2.4b-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4750/673/mcw-windows-2.2.0-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4726/294/mcw-furniture-3.2.0-mc1.19.2forge.jar
-  - url: https://edge.forgecdn.net/files/4159/154/alexsmobs-1.21.1.jar
-  - url: https://edge.forgecdn.net/files/4777/515/upgrade_aquatic-1.19.2-5.1.0.jar
-  - url: https://edge.forgecdn.net/files/4002/91/infernal-expansion-1.19.2-2.5.3.jar
-  - url: https://edge.forgecdn.net/files/3966/273/blue_skies-1.19.2-1.3.20.jar
-  - url: https://edge.forgecdn.net/files/4389/567/twilightforest-1.19.2-4.2.1518-universal.jar
-  - url: https://edge.forgecdn.net/files/4166/676/deeperdarker-forge-1.1.6-forge.jar
-  - url: https://edge.forgecdn.net/files/4057/184/The_Undergarden-1.19.2-0.8.3.jar
-  - url: https://edge.forgecdn.net/files/4478/230/Paraglider-1.19.2-1.7.0.5.jar
-  - url: https://edge.forgecdn.net/files/4736/644/sophisticatedbackpacks-1.19.2-3.18.58.907.jar
-  - url: https://edge.forgecdn.net/files/4635/420/waystones-forge-1.19.2-11.4.1.jar
-  - url: https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar
-  - url: https://edge.forgecdn.net/files/3920/717/corpse-1.19.2-1.0.0.jar
-  - url: https://edge.forgecdn.net/files/3821/898/foodeffects-1.19-1.1.3.jar
-  - url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
-  - url: https://edge.forgecdn.net/files/3925/822/secondchanceforge-1.19-1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4662/4/miningmaster-1.19.2-4.1.4.jar
-  - url: https://edge.forgecdn.net/files/4461/135/ShieldExpansion-1.19.2-1.1.6.jar
-  - url: https://edge.forgecdn.net/files/3972/801/elytrabounce-1.19.2-1.0.2.jar
-  - url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/3901/487/mining_helmet-1.19-2.1.1.jar
-  - url: https://edge.forgecdn.net/files/4397/570/healingcampfire-1.19.2-5.1.jar
-  - url: https://edge.forgecdn.net/files/4597/582/treeharvester-1.19.2-8.2.jar
-  - url: https://edge.forgecdn.net/files/3959/177/animal_feeding_trough-1.0.3+1.19.2-forge.jar
-  - url: https://edge.forgecdn.net/files/4646/710/betterlily-1.1.2.jar
-  - url: https://edge.forgecdn.net/files/4713/983/InventoryProfilesNext-forge-1.19-1.10.7.jar
-  - url: https://edge.forgecdn.net/files/4061/326/ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4124/35/Fallingleaves-1.19.1-2.0.0-alpha+20221129-2000.jar
-  - url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1+1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4736/546/EnchantmentDescriptions-Forge-1.19.2-13.0.16.jar
-  - url: https://edge.forgecdn.net/files/4282/5/EquipmentCompare-1.19.2-forge-1.3.2.jar
-  - url: https://edge.forgecdn.net/files/4153/347/Clumps-forge-1.19.2-9.0.0+14.jar
-  - url: https://edge.forgecdn.net/files/4085/139/lucent-1.19.2-1.4.1.jar
-  - url: https://edge.forgecdn.net/files/4776/328/buzzier_bees-1.19.2-5.0.1.jar
-  - url: https://edge.forgecdn.net/files/4776/187/autumnity-1.19.2-4.0.1.jar
-  - url: https://edge.forgecdn.net/files/4798/453/Quark-3.4-416.jar
-  - url: https://edge.forgecdn.net/files/4783/978/neapolitan-1.19.2-4.1.0.jar
-  - url: https://edge.forgecdn.net/files/4331/348/Orcz_0.85_1.19.2[PORT].jar
-  - url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
-  - url: https://edge.forgecdn.net/files/4793/452/ctov-3.2.6c.jar
-  - url: https://edge.forgecdn.net/files/3891/765/morevillagers-forge-1.19-4.0.3.jar
-  - url: https://edge.forgecdn.net/files/3914/548/villagertools-1.19-1.0.3.jar
-  - url: https://edge.forgecdn.net/files/4776/245/savage_and_ravage-1.19.2-5.0.5.jar
-  - url: https://edge.forgecdn.net/files/4111/376/callablehorses-1.19.2-1.2.2.3.jar
-  - url: https://edge.forgecdn.net/files/4370/425/VillagersPlus_1.2_(FORGE)_for_1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4759/444/recruits-1.19.2-1.10.8.jar
-  - url: https://edge.forgecdn.net/files/4088/114/golemsarefriends-1.19.2-0.1.0.1.jar
-  - url: https://edge.forgecdn.net/files/4100/162/More Wandering Trades 1.0.0 - 1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4381/343/smarterfarmers-1.19.2-1.7.1.jar
-  - url: https://edge.forgecdn.net/files/4517/363/chefs-delight-1.0.2-forge-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4010/651/goblintraders-1.8.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4536/108/upgradednetherite-1.19.2-5.1.0.9-release.jar
-  - url: https://edge.forgecdn.net/files/4553/225/simplyswords-forge-1.47.0-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4525/929/knavesneeds-forge-1.1.4+1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4696/44/[1.19.2-forge]-Epic-Knights-8.2.jar
-  - url: https://edge.forgecdn.net/files/4779/821/relics-1.19.2-0.4.7.4.jar
-  - url: https://edge.forgecdn.net/files/4666/81/reliquary-1.19.2-2.0.40.1198.jar
-  - url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
-  - url: https://edge.forgecdn.net/files/4031/213/YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar
-  - url: https://edge.forgecdn.net/files/4031/199/YungsBetterMineshafts-1.19.2-Forge-3.2.0.jar
-  - url: https://edge.forgecdn.net/files/4073/204/YungsBetterDungeons-1.19.2-Forge-3.2.2.jar
-  - url: https://edge.forgecdn.net/files/4761/151/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar
-  - url: https://edge.forgecdn.net/files/4655/719/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar
-  - url: https://edge.forgecdn.net/files/4419/320/YungsBetterDesertTemples-1.19.2-Forge-2.2.2.jar
-  - url: https://edge.forgecdn.net/files/4031/226/YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar
-  - url: https://edge.forgecdn.net/files/4742/920/YungsBetterJungleTemples-1.19.2-Forge-1.0.1.jar
-  - url: https://edge.forgecdn.net/files/4031/230/YungsExtras-1.19.2-Forge-3.1.0.jar
-  - url: https://edge.forgecdn.net/files/4594/207/habitat-1.2.4.jar
-  - url: https://edge.forgecdn.net/files/4086/903/Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar
-  - url: https://edge.forgecdn.net/files/4171/285/ecologics-forge-1.19.2-2.1.11.jar
-  - url: https://edge.forgecdn.net/files/4655/244/DynamicTreesBOP-1.19.2-3.1.1.jar
-  - url: https://edge.forgecdn.net/files/4608/393/UndeadUnleashed-1.1.1-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4393/843/DarkerDepths-1.19.2-1.0.0.jar
-  - url: https://edge.forgecdn.net/files/4799/968/valhelsia_structures-forge-1.19.2-1.0.4.jar
-  - url: https://edge.forgecdn.net/files/4446/302/piglinproliferation-1.19.2-1.0.3.jar
-  - url: https://edge.forgecdn.net/files/4389/856/hunterillager-1.19.2-8.0.0.jar
-  - url: https://edge.forgecdn.net/files/4398/692/Raided-1.19.2-0.1.3.jar
-  - url: https://edge.forgecdn.net/files/4599/706/DungeonsArise-1.19.2-2.1.56-beta.jar
-  - url: https://edge.forgecdn.net/files/4436/710/geodeforge-1.1.8-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4547/170/suppsquared-1.19.2-1.1.1.jar
-  - url: https://edge.forgecdn.net/files/4662/4/miningmaster-1.19.2-4.1.4.jar
-  - url: https://edge.forgecdn.net/files/3928/998/zombieawareness-1.19.2-1.12.3.jar
-  - url: https://edge.forgecdn.net/files/4598/311/Enhanced_Celestials-forge-1.19.2-2.1.0.6.jar
-  - url: https://edge.forgecdn.net/files/4556/106/CNB-1.19-1.5.4.jar
-  - url: https://edge.forgecdn.net/files/4576/641/geophilic-1.19-2.0.0c.jar
-  - url: https://edge.forgecdn.net/files/4454/55/awesomedungeonnether-forge-1.19.2-3.1.1.jar
-  - url: https://edge.forgecdn.net/files/4490/706/awesomedungeonocean-forge-1.19.2-3.3.0.jar
-  - url: https://edge.forgecdn.net/files/4454/472/awesomedungeonend-forge-1.19.2-3.1.1.jar
-  - url: https://edge.forgecdn.net/files/4494/359/awesomedungeon-forge-1.19.2-3.2.0.jar
-  - url: https://edge.forgecdn.net/files/4536/674/BloodAndMadness-Forge1.19.2-v2.1.4.jar
-  - url: https://edge.forgecdn.net/files/4796/690/vinery-1.3.11-forge-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4641/936/letsdo-meadow-forge-1.2.4.jar
-  - url: https://edge.forgecdn.net/files/4703/544/letsdo-beachparty-forge-1.0.12b.jar
-  - url: https://edge.forgecdn.net/files/4780/907/letsdo-bakery-forge-1.0.6.jar
-  - url: https://edge.forgecdn.net/files/4702/731/letsdo-candlelight-forge-1.1.8.jar
-  - url: https://edge.forgecdn.net/files/4696/320/crittersandcompanions-1.19.2-2.0.3.jar
-  - url: https://edge.forgecdn.net/files/3931/152/endercrop-1.19.2-1.7.0-beta.jar
-  - url: https://edge.forgecdn.net/files/4803/35/capybaramod-0.0.2-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4367/405/astikorcarts-1.19.2-1.1.2.jar
-  - url: https://edge.forgecdn.net/files/4607/192/queen_bee-3.0.3-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4063/268/rottencreatures-forge-1.19.2-1.0.1.jar
-  - url: https://edge.forgecdn.net/files/4777/595/L_Enders_Cataclysm-1.38 -1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4084/387/Piglin-Expansion-1.2.2-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4398/495/passiveshield-1.19.2-3.2.jar
-  - url: https://edge.forgecdn.net/files/4721/566/soundphysics-forge-1.19.2-1.2.1.jar
-  - url: https://edge.forgecdn.net/files/4126/142/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4291/556/PresenceFootsteps-1.19.2-1.6.4.1-forge.jar
-  - url: https://edge.forgecdn.net/files/4358/579/helpfulwizards-1.0.0-forge.jar
-  - url: https://edge.forgecdn.net/files/4755/405/collectorsreap-1.19-1.2.4.jar
-  - url: https://edge.forgecdn.net/files/4802/202/breezy-1.19.2-1.0.6.jar
-  - url: https://edge.forgecdn.net/files/4762/750/CrabbersDelight-1.19.2-1.1.2.jar
-  - url: https://edge.forgecdn.net/files/4480/646/ItalianDelight-1.19.2 1.5-MAR_FIX.jar
-  - url: https://edge.forgecdn.net/files/4802/144/twilightdelight-1.4.1.jar
-  - url: https://edge.forgecdn.net/files/4679/318/FarmersDelight-1.19.2-1.2.3.jar
-  - url: https://edge.forgecdn.net/files/4731/72/NethersDelight-1.19-3.1.jar
-  - url: https://edge.forgecdn.net/files/4667/366/endersdelight-1.19-1.2.1.jar
-  - url: https://edge.forgecdn.net/files/4282/385/alexsdelight-1.4.1.jar
-  - url: https://edge.forgecdn.net/files/4675/407/endsdelight-1.19.2-1.2.1.jar
-  - url: https://edge.forgecdn.net/files/4774/174/PineappleDelight-Forge-1.19.2-1.0.7.jar
-  - url: https://edge.forgecdn.net/files/4652/58/oceansdelight-1.0.2-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4776/26/abnormals_delight-1.19.2-4.1.0.jar
-  - url: https://edge.forgecdn.net/files/4637/286/corn_delight-1.0.3-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4634/598/culturaldelights-1.19.2-0.15.4.jar
-  - url: https://edge.forgecdn.net/files/4761/28/cuisinedelight-1.0.6.jar
-  - url: https://edge.forgecdn.net/files/4738/272/miners_delight-1.19.2-1.1.2.jar
-  - url: https://edge.forgecdn.net/files/4707/744/Festive_Delight_1.1_1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4804/666/QualitysDelight-1.19.2-1.5.1.jar
-  - url: https://edge.forgecdn.net/files/4707/182/CoffeeDelight-Forge-1.19.2-1.4.jar
-  - url: https://edge.forgecdn.net/files/4776/174/Engineers Delight 1.19.2 B.1.2.jar
-  - url: https://edge.forgecdn.net/files/4121/540/fastfooddelight-1.19-1.2.3.jar
-  - url: https://edge.forgecdn.net/files/4673/389/tofudelight-1.19.2-1.1.0.jar
-  - url: https://edge.forgecdn.net/files/4490/901/maturidelight-1.19.2-0.1.0.jar
-  - url: https://edge.forgecdn.net/files/4628/802/Argentina's Delight 1.19.2 (ver1.21).jar
-  - url: https://edge.forgecdn.net/files/4806/631/extradelight-1.1.4.jar
-  - url: https://edge.forgecdn.net/files/4736/366/casualness_delight-1.19.2-0.2a-forge.jar
-  - url: https://edge.forgecdn.net/files/4542/976/delightfulmining-0.3.jar
-  - url: https://edge.forgecdn.net/files/4727/908/Wizardy delight-1.19.2-V2.2.jar
-  - url: https://edge.forgecdn.net/files/4535/109/Forgotten_Delight_1.2.jar
-  - url: https://edge.forgecdn.net/files/4380/297/vanillapluscompat-1.6.1-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4457/605/mushroom delight.jar
-  - url: https://edge.forgecdn.net/files/4749/423/cookingforblockheads-forge-1.19.2-13.3.3.jar
-  - url: https://edge.forgecdn.net/files/4799/298/FruitTrees-1.19.2-forge-6.3.1.jar
-  - url: https://edge.forgecdn.net/files/4762/750/CrabbersDelight-1.19.2-1.1.2.jar
-  - url: https://edge.forgecdn.net/files/4766/165/Bossominium-U-18-1.19.2.jar
-  - url: https://edge.forgecdn.net/files/4796/342/map_atlases-1.19-5.5.2-all.jar
-  - url: https://edge.forgecdn.net/files/4766/547/untamedwilds-1.19.2-3.0.4.jar
+- url: https://edge.forgecdn.net/files/4800/904/Jade-1.19.1-forge-8.9.1.jar
+- url: https://edge.forgecdn.net/files/4556/677/citadel-2.1.4-1.19.jar
+- url: https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar
+- url: https://edge.forgecdn.net/files/4633/416/cloth-config-8.3.103-forge.jar
+- url: https://edge.forgecdn.net/files/4418/149/player-animation-lib-forge-1.0.2.jar
+- url: https://edge.forgecdn.net/files/4074/684/Aquaculture-1.19.2-2.4.8.jar
+- url: https://edge.forgecdn.net/files/4561/875/brutalbosses-1.19.2-6.3.jar
+- url: https://edge.forgecdn.net/files/4671/55/mcw-bridges-2.1.1-mc1.19.2forge.jar
+- url: https://edge.forgecdn.net/files/4452/501/Incendium_1.19.3_v5.1.6.jar
+- url: https://edge.forgecdn.net/files/4343/572/dragon_enchants-1.0.4-1.19.2.jar
+- url: https://edge.forgecdn.net/files/4199/798/soundphysics-forge-1.19.2-1.0.18.jar
+- url: https://edge.forgecdn.net/files/4291/556/PresenceFootsteps-1.19.2-1.6.4.1-forge.jar
+- url: https://edge.forgecdn.net/files/4555/749/architectury-6.5.85-forge.jar 
+- url: https://edge.forgecdn.net/files/4784/876/immersivemc-1.4.0-1.19.2-forge.jar
+- url: https://edge.forgecdn.net/files/4751/735/balm-forge-1.19.2-4.6.0.jar
+- url: https://edge.forgecdn.net/files/4635/420/waystones-forge-1.19.2-11.4.1.jar
+- url: https://edge.forgecdn.net/files/4523/9/curios-forge-1.19.2-5.1.4.1.jar
+- url: https://edge.forgecdn.net/files/4712/866/jei-1.19.2-forge-11.6.0.1018.jar
+- url: https://edge.forgecdn.net/files/4277/356/EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar
+- url: https://edge.forgecdn.net/files/4736/644/sophisticatedbackpacks-1.19.2-3.18.58.907.jar
+- url: https://edge.forgecdn.net/files/3951/643/JustEnoughResources-1.19.2-1.1.0.179.jar 
+- url: https://edge.forgecdn.net/files/4729/948/carryon-forge-1.19.2-2.1.1.21.jar
+- url: https://edge.forgecdn.net/files/4736/641/sophisticatedcore-1.19.2-0.5.87.417.jar
+- url: https://edge.forgecdn.net/files/3894/512/FastLeafDecay-30.jar
+- url: https://edge.forgecdn.net/files/4412/699/netherportalfix-forge-1.19-10.0.1.jar
+- url: https://edge.forgecdn.net/files/4019/127/AI-Improvements-1.19.2-0.5.2.jar
+- url: https://edge.forgecdn.net/files/3929/284/caelus-forge-1.19.2-3.0.0.6.jar
+- url: https://edge.forgecdn.net/files/4028/348/FastFurnace-1.19.2-7.0.0.jar
+- url: https://edge.forgecdn.net/files/3920/717/corpse-1.19.2-1.0.0.jar
+- url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1%2B1.19.2.jar
+- url: https://edge.forgecdn.net/files/4153/724/invhud.forge.1.19-3.4.7.jar
+- url: https://edge.forgecdn.net/files/4746/980/artifacts-1.19.2-5.0.4.jar
+- url: https://edge.forgecdn.net/files/4065/546/notenoughanimations-forge-1.6.2-mc1.19.2.jar
+- url: https://edge.forgecdn.net/files/4794/910/repurposed_structures_forge-6.3.27%2B1.19.2.jar
+- url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
+- url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
+- url: https://edge.forgecdn.net/files/3922/675/swingthroughgrass-1.19.2-1.10.0.jar
+- url: https://edge.forgecdn.net/files/4166/676/deeperdarker-forge-1.1.6-forge.jar
+- url: https://edge.forgecdn.net/files/4010/651/goblintraders-1.8.0-1.19.2.jar
+- url: https://edge.forgecdn.net/files/3963/662/inventorysorter-1.19.2-21.0.4.jar
+- url: https://edge.forgecdn.net/files/4086/903/Towns-and-Towers-v.1.10-_FORGE-1.19.2_.jar 
+- url: https://edge.forgecdn.net/files/4368/296/BetterTridents-v4.0.2-1.19.2-Forge.jar
+- url: https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar
+- url: https://edge.forgecdn.net/files/4569/847/MutantMonsters-v4.0.6-1.19.2-Forge.jar
+- url: https://edge.forgecdn.net/files/3877/162/BetterThanMending-1.7.2.jar
+- url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
+- url: https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar
+- url: https://edge.forgecdn.net/files/4584/615/CreativeCore_FORGE_v2.9.4_mc1.19.2.jar 
+- url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar 
+- url: https://edge.forgecdn.net/files/4061/326/ItemPhysic_FORGE_v1.6.6_mc1.19.2.jar 
+- url: https://edge.forgecdn.net/files/4126/142/AmbientSounds_FORGE_v5.2.13_mc1.19.2.jar
+- url: https://edge.forgecdn.net/files/3922/355/BowInfinityFix-1.19.x-forge-2.5.1.jar
+- url: https://edge.forgecdn.net/files/4703/619/bettervillage-forge-1.19.2-3.2.0.jar 
+- url: https://edge.forgecdn.net/files/4435/523/libraryferret-forge-1.19.2-4.0.0.jar 
+- url: https://edge.forgecdn.net/files/4662/406/immersive_armors-1.5.6%2B1.19.2-forge.jar
+- url: https://edge.forgecdn.net/files/4345/42/toughnessbar-1.19.2-8.jar
+- url: https://edge.forgecdn.net/files/4767/68/born_in_chaos_%5bForge%5d1.19.2_1.7.jar
+- url: https://edge.forgecdn.net/files/4068/246/amethystequipment-forge-1.19.2-v1.0.7.jar
+- url: https://edge.forgecdn.net/files/4063/268/rottencreatures-forge-1.19.2-1.0.1.jar
+- url: https://edge.forgecdn.net/files/4677/633/Nullscape_1.19.3_v1.2.2.jar
+- url: https://edge.forgecdn.net/files/3925/822/secondchanceforge-1.19-1.5.1.jar
+- url: https://edge.forgecdn.net/files/4761/151/YungsBetterOceanMonuments-1.19.2-Forge-2.1.1.jar
+- url: https://edge.forgecdn.net/files/4381/343/smarterfarmers-1.19.2-1.7.1.jar
+- url: https://edge.forgecdn.net/files/4345/320/betterenchantments-1.0.0-1.19.2.jar
+- url: https://edge.forgecdn.net/files/4749/196/VillagerEnchanter-Forge-0.1%2B1.19.2.jar
+- url: https://edge.forgecdn.net/files/4599/706/DungeonsArise-1.19.2-2.1.56-beta.jar 
+- url: https://edge.forgecdn.net/files/4499/66/HangGlider-v4.0.0-1.19.2-Forge.jar
+- url: https://edge.forgecdn.net/files/4657/842/difficultraids-1.19.2-2.0-beta.11.jar
+- url: https://edge.forgecdn.net/files/4617/717/ImprovableSkills-1.19.2-19.2.9.jar
+- url: https://edge.forgecdn.net/files/4790/589/TravelersBackpack-1.19.2-8.2.35.jar
+- url: https://edge.forgecdn.net/files/4759/853/Placebo-1.19.2-7.3.3.jar
+- url: https://edge.forgecdn.net/files/4768/469/HammerLib-1.19.2-19.3.73.jar
+- url: https://edge.forgecdn.net/files/4556/697/Bookshelf-Forge-1.19.2-16.3.20.jar
+- url: https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar
+- url: https://edge.forgecdn.net/files/4758/15/moonlight-1.19.2-2.2.46-forge.jar
+- url: https://edge.forgecdn.net/files/4441/682/YungsApi-1.19.2-Forge-3.8.9.jar
+- url: https://edge.forgecdn.net/files/4499/656/stalwart-dungeons-1.19.2-1.2.8.jar
+- url: https://edge.forgecdn.net/files/4749/568/XaerosWorldMap_1.34.1_Forge_1.19.1.jar 
+- url: https://edge.forgecdn.net/files/4768/136/Xaeros_Minimap_23.8.2_Forge_1.19.1.jar
+- url: https://edge.forgecdn.net/files/4801/198/treasuredistance-1.19.2-1.2.jar
+- url: https://edge.forgecdn.net/files/4282/5/EquipmentCompare-1.19.2-forge-1.3.2.jar
+- url: https://edge.forgecdn.net/files/4794/940/EpicFight-19.5.14.jar
+- url: https://edge.forgecdn.net/files/4576/641/geophilic-1.19-2.0.0c.jar
+- url: https://edge.forgecdn.net/files/4713/983/InventoryProfilesNext-forge-1.19-1.10.7.jar
+- url: https://edge.forgecdn.net/files/4300/529/Iceberg-1.19.2-forge-1.1.4.jar 
+- url: https://edge.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar 
+- url: https://edge.forgecdn.net/files/4713/498/libIPN-forge-1.19-4.0.0.jar
