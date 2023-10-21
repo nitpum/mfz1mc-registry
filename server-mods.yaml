@@ -1,5 +1,23 @@
 version: '1'
 mods:
+  - url: https://edge.forgecdn.net/files/4749/0/blueprint-1.19.2-6.2.0.jar
+  - url: https://edge.forgecdn.net/files/4100/299/AutoRegLib-1.8.2-55.jar
+  - url: https://edge.forgecdn.net/files/4762/768/collective-1.19.2-6.66.jar
+  - url: https://edge.forgecdn.net/files/4618/490/TerraBlender-forge-1.19.2-2.0.1.166.jar
+  - url: https://edge.forgecdn.net/files/4554/112/CorgiLib-fabric-1.19.2-1.0.0.34.jar
+  - url: https://edge.forgecdn.net/files/4676/882/doapi-1.1.0b.jar
+  - url: https://edge.forgecdn.net/files/4777/775/DynamicTrees-1.19.2-1.1.0-BETA10.jar
+  - url: https://edge.forgecdn.net/files/4769/900/QualityCrops-1.19.2-1.3.0.jar
+  - url: https://edge.forgecdn.net/files/4473/556/BiomesOPlenty-1.19.2-17.1.2.544.jar
+  - url: https://edge.forgecdn.net/files/4780/537/ImmersiveEngineering-1.19.2-9.2.3-167.jar
+  - url: https://edge.forgecdn.net/files/4547/401/mysterious_mountain_lib-1.2.3-1.19.2.jar
+  - url: https://edge.forgecdn.net/files/4612/122/TofuCraftReload-1.19.2-2.10.2.1.jar
+  - url: https://edge.forgecdn.net/files/4181/245/valhelsia_core-forge-1.19.2-0.5.0.jar
+  - url: https://edge.forgecdn.net/files/4545/810/modestmining-0.2.9.jar
+  - url: https://edge.forgecdn.net/files/3928/997/coroutil-1.19.2-1.2.37.jar
+  - url: https://edge.forgecdn.net/files/4451/128/Kiwi-1.19.1-forge-8.3.4.jar
+  - url: https://edge.forgecdn.net/files/4717/637/supplementaries-1.19.2-2.3.24.jar
+  - url: https://edge.forgecdn.net/files/4735/963/valhelsia_furniture-forge-1.20.1-1.1.2.jar
   - url: https://edge.forgecdn.net/files/4800/904/Jade-1.19.1-forge-8.9.1.jar
   - url: https://edge.forgecdn.net/files/4556/677/citadel-2.1.4-1.19.jar
   - url: https://edge.forgecdn.net/files/3872/808/appleskin-forge-mc1.19-2.4.2.jar
