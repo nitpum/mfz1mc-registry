@@ -51,7 +51,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4519/258/elytraslot-forge-6.1.1%2B1.19.2.jar
   - url: https://edge.forgecdn.net/files/4153/724/invhud.forge.1.19-3.4.7.jar
   - url: https://edge.forgecdn.net/files/4746/980/artifacts-1.19.2-5.0.4.jar
-  - url: https://edge.forgecdn.net/files/4065/546/notenoughanimations-forge-1.6.2-mc1.19.2.jar
   - url: https://edge.forgecdn.net/files/4794/910/repurposed_structures_forge-6.3.27%2B1.19.2.jar
   - url: https://edge.forgecdn.net/files/4437/208/DungeonCrawl-1.19-2.3.12.jar
   - url: https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar
@@ -64,7 +63,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4600/775/PuzzlesLib-v4.4.3-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/4569/847/MutantMonsters-v4.0.6-1.19.2-Forge.jar
   - url: https://edge.forgecdn.net/files/3877/162/BetterThanMending-1.7.2.jar
-  - url: https://edge.forgecdn.net/files/4018/74/NekosEnchantedBooks-1.19-1.8.0.jar
   - url: https://edge.forgecdn.net/files/4082/456/NoChatReports-FORGE-1.19.2-v1.5.1.jar
   - url: https://edge.forgecdn.net/files/4584/615/CreativeCore_FORGE_v2.9.4_mc1.19.2.jar
   - url: https://edge.forgecdn.net/files/4095/245/PlayerRevive_FORGE_v2.0.14_mc1.19.2.jar
@@ -206,7 +204,6 @@ mods:
   - url: https://edge.forgecdn.net/files/4774/386/RoughlyEnoughItems-9.1.663.jar
   - url: https://edge.forgecdn.net/files/4736/641/sophisticatedcore-1.19.2-0.5.87.417.jar
   - url: https://edge.forgecdn.net/files/4407/241/geckolib-forge-1.19-3.1.40.jar
-  - url: https://edge.forgecdn.net/files/4764/900/farsight-1.19.2-3.5.jar
   - url: https://edge.forgecdn.net/files/4792/392/modernfix-forge-5.8.1+mc1.19.2.jar
   - url: https://edge.forgecdn.net/files/4617/717/ImprovableSkills-1.19.2-19.2.9.jar
   - url: https://edge.forgecdn.net/files/4729/948/carryon-forge-1.19.2-2.1.1.21.jar
@@ -351,10 +348,8 @@ mods:
   - url: https://edge.forgecdn.net/files/4673/389/tofudelight-1.19.2-1.1.0.jar
   - url: https://edge.forgecdn.net/files/4490/901/maturidelight-1.19.2-0.1.0.jar
   - url: https://edge.forgecdn.net/files/4628/802/Argentina's Delight 1.19.2 (ver1.21).jar
-  - url: https://edge.forgecdn.net/files/4806/631/extradelight-1.1.4.jar
   - url: https://edge.forgecdn.net/files/4736/366/casualness_delight-1.19.2-0.2a-forge.jar
   - url: https://edge.forgecdn.net/files/4542/976/delightfulmining-0.3.jar
-  - url: https://edge.forgecdn.net/files/4727/908/Wizardy delight-1.19.2-V2.2.jar
   - url: https://edge.forgecdn.net/files/4535/109/Forgotten_Delight_1.2.jar
   - url: https://edge.forgecdn.net/files/4380/297/vanillapluscompat-1.6.1-1.19.2.jar
   - url: https://edge.forgecdn.net/files/4457/605/mushroom delight.jar
