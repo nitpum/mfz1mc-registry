@@ -86,3 +86,31 @@ mods:
   - url: https://edge.forgecdn.net/files/4513/187/kotlinforforge-3.12.0-all.jar
   - url: https://edge.forgecdn.net/files/4713/498/libIPN-forge-1.19-4.0.0.jar
   - url: https://edge.forgecdn.net/files/4794/940/EpicFight-19.5.14.jar
+
+  - url: https://edge.forgecdn.net/files/4159/154/alexsmobs-1.21.1.jar
+  - url: https://edge.forgecdn.net/files/4777/515/upgrade_aquatic-1.19.2-5.1.0.jar
+  - url: https://edge.forgecdn.net/files/4002/91/infernal-expansion-1.19.2-2.5.3.jar
+  - url: https://edge.forgecdn.net/files/3821/898/foodeffects-1.19-1.1.3.jar
+  - url: https://edge.forgecdn.net/files/3959/177/animal_feeding_trough-1.0.3+1.19.2-forge.jar
+  - url: https://edge.forgecdn.net/files/4776/187/autumnity-1.19.2-4.0.1.jar
+  - url: https://edge.forgecdn.net/files/4783/978/neapolitan-1.19.2-4.1.0.jar
+  - url: https://edge.forgecdn.net/files/4517/363/chefs-delight-1.0.2-forge-1.19.2.jar
+  - url: https://edge.forgecdn.net/files/3891/765/morevillagers-forge-1.19-4.0.3.jar
+  - url: https://edge.forgecdn.net/files/4536/108/upgradednetherite-1.19.2-5.1.0.9-release.jar
+  - url: https://edge.forgecdn.net/files/4696/44/[1.19.2-forge]-Epic-Knights-8.2.jar
+  - url: https://edge.forgecdn.net/files/4666/81/reliquary-1.19.2-2.0.40.1198.jar
+  - url: https://edge.forgecdn.net/files/4779/821/relics-1.19.2-0.4.7.4.jar
+  - url: https://edge.forgecdn.net/files/4608/393/UndeadUnleashed-1.1.1-1.19.2.jar
+  - url: https://edge.forgecdn.net/files/4446/302/piglinproliferation-1.19.2-1.0.3.jar
+  - url: https://edge.forgecdn.net/files/4389/856/hunterillager-1.19.2-8.0.0.jar
+  - url: https://edge.forgecdn.net/files/4436/710/geodeforge-1.1.8-1.19.2.jar
+  - url: https://edge.forgecdn.net/files/4306/457/Structory_Towers_1.19_v1.0.1.jar
+  - url: https://edge.forgecdn.net/files/4556/106/CNB-1.19-1.5.4.jar
+  - url: https://edge.forgecdn.net/files/4536/674/BloodAndMadness-Forge1.19.2-v2.1.4.jar
+  - url: https://edge.forgecdn.net/files/3928/998/zombieawareness-1.19.2-1.12.3.jar
+  - url: https://mediafilez.forgecdn.net/files/4749/0/blueprint-1.19.2-6.2.0.jar
+  - url: https://mediafilez.forgecdn.net/files/4411/903/upgradedcore-1.19.2-4.1.0.1-release.jar
+  - url: https://mediafilez.forgecdn.net/files/4181/245/valhelsia_core-forge-1.19.2-0.5.0.jar
+  - url: https://mediafilez.forgecdn.net/files/4520/253/valhelsia_furniture-forge-1.19.2-1.1.1.jar
+  - url: https://mediafilez.forgecdn.net/files/3928/997/coroutil-1.19.2-1.2.37.jar
+  - url: https://mediafilez.forgecdn.net/files/4679/318/FarmersDelight-1.19.2-1.2.3.jar
