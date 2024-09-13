@@ -1,0 +1,13 @@
+name = "mfz1mc"
+author = "nitpum"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cfdf476b8494c644a2f4cf8a2017186fbdcc79848080cbeb8b6856d17a695c8c"
+
+[versions]
+forge = "52.0.15"
+minecraft = "1.20.1"

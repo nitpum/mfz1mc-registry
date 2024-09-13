@@ -1,0 +1,13 @@
+name = "Cursed Walking - A Modern Zombie Apocalypse"
+filename = "Cursed Walking-1.20.1 V2.1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef19c5b4863421810821c90d708aaaea920088a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624677
+project-id = 682001
