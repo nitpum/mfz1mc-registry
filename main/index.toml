@@ -6,10 +6,6 @@ hash = "a20951fe0ef26e0d5674106694762c531d5c87115db9bb3c11167216c5f35a63"
 metafile = true
 
 [[files]]
-file = "mods.yaml"
-hash = "81f7bc636fa916813e8d018005f0c3e95307b146983a1e27e9ddc77d5f0aefcf"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
 metafile = true
@@ -18,7 +14,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "55a20f1ba9309947abacc023ba5b78a25ce41223c7d44c6fe1f85dafbdc4f9a1"
 metafile = true
-
-[[files]]
-file = "server-mods.yaml"
-hash = "9a1b23a48bfae5ba4da2c591aea3baeb5a04e1e75ba553fc2daf5611184d5ae9"
