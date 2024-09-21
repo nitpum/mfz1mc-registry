@@ -6509,6 +6509,14 @@ file = "config/worldedit/worldedit.properties"
 hash = "2dff9cc4cc3e0b7b28e63342e885e45bed1b1f476876a68c011133ff96d511b1"
 
 [[files]]
+file = "mfz1mc-1.0.0/overrides/mods/balm-forge-1.20.1-7.3.9-all.jar"
+hash = "a731eb9950b495d2e3973f2fec3eb2f7b6020509e4180661ebb4776a2705182e"
+
+[[files]]
+file = "mfz1mc-1.0.0/overrides/mods/waystones-forge-1.20-14.1.5.jar"
+hash = "3b5cd570a1c2d330e8e6292644252dd4c104b8e8cbbc6741f9a548c3ef2d7b0a"
+
+[[files]]
 file = "mods/access-denied.pw.toml"
 hash = "54e84bd63eb4479985e1597b8fa32811c66c90d70e5ac949ba1fb160cbed9db1"
 metafile = true
