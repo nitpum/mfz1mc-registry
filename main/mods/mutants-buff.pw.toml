@@ -1,0 +1,13 @@
+name = "Mutants Plus"
+filename = "Mutants Buff 1.5.3 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6a0b50946ed0a72a3cad840571cc8e3ebf8a8abf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5292990
+project-id = 924168

@@ -1,0 +1,13 @@
+name = "Access Denied"
+filename = "no dimensions.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a82d2af3ed814ed2d2bac2236f5e17df0180a75a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5481717
+project-id = 917449

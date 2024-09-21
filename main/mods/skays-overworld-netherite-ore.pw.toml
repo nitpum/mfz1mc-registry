@@ -1,0 +1,13 @@
+name = "Skay's Overworld Netherite Ore"
+filename = "Overworld Netherite ore 2.3 1.20.1 Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "12d191d2762f4195e892a508211bd80b6b8f683d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5395563
+project-id = 625133

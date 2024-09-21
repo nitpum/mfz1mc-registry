@@ -1,0 +1,13 @@
+name = "Marbled's Arsenal [MA]"
+filename = "marbledsarsenal-1.20.1-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "16d25e0b718f68870fb1a846fbad4c99a8d9c803"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5540937
+project-id = 776273
