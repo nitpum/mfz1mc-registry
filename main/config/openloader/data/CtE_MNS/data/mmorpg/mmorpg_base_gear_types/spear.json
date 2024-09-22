@@ -1,0 +1,39 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 13.3,
+      "min": 6.65,
+      "stat": "weapon_damage"
+    }
+  ],
+  "gear_slot": "spear",
+  "guid": "spear",
+  "possible_items": [
+    {
+      "item_id": "minecraft:trident",
+      "min_rar": "common",
+      "weight": 1000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "strength": 0.2,
+      "dexterity": 0.2
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "dexterity",
+      "spear",
+      "strength",
+      "melee_weapon",
+      "weapon_family",
+      "two_handed"
+    ]
+  },
+  "weapon_type": "spear",
+  "weight": 250
+}

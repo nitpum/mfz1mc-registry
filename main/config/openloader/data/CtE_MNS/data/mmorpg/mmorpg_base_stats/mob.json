@@ -1,0 +1,35 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": true,
+      "stat": "accuracy",
+      "v1": 9.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": true,
+      "stat": "armor",
+      "v1": 10.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": true,
+      "stat": "dodge",
+      "v1": 20.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": true,
+      "stat": "spell_dodge",
+      "v1": 10.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "elemental_resist",
+      "v1": 10.0
+    }
+  ],
+  "id": "mob"
+}

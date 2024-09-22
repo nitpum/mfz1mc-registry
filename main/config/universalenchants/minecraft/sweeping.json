@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident",
+    "minecolonies:spear",
+    "aquamirae:whisper_of_the_abyss",
+    "aquamirae:coral_lance",
+    "aquamirae:sweet_lance",
+    "blue_skies:bluebright_spear",
+    "blue_skies:starlit_spear",
+    "blue_skies:frostbright_spear",
+    "blue_skies:lunar_spear",
+    "blue_skies:dusk_spear",
+    "blue_skies:maple_spear",
+    "blue_skies:comet_spear",
+    "blue_skies:soulbound_spear",
+    "stalwart_dungeons:wooden_hammer",
+    "stalwart_dungeons:stone_hammer",
+    "stalwart_dungeons:iron_hammer",
+    "stalwart_dungeons:golden_hammer",
+    "stalwart_dungeons:diamond_hammer",
+    "stalwart_dungeons:netherite_hammer",
+    "stalwart_dungeons:tungsten_hammer",
+    "stalwart_dungeons:nether_hammer",
+    "blue_skies:crushing_hammer"
+  ],
+  "incompatible": []
+}

@@ -1,0 +1,13 @@
+name = "project-848933"
+filename = "hitindication-1.20.1-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2404aaa07395b2204ff0a292bff09e470249ee81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5468670
+project-id = 848933

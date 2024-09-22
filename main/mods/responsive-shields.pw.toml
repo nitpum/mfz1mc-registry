@@ -1,0 +1,13 @@
+name = "Responsive Shields"
+filename = "responsiveshields-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8730634577261c83acb51f6c47d6759cb77e4d1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4583922
+project-id = 557556
